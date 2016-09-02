@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="JCN_HOME/javacompute.jar"/>
+	<classpathentry kind="var" path="JCN_HOME/jplugin2.jar"/>
+	<classpathentry exported="true" kind="lib" path="log4j-1.2.17.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="Log4jLoggingNode_v1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jakarta-oro-2.0.4.jar"/>
+	<classpathentry kind="con" path="com.ibm.etools.mft.uri.classpath.MBProjectReference"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
